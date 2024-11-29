@@ -6,10 +6,21 @@ This repository contains work completed by Adam Wojtulewski with the help of Pro
 
 ## Using the Code
 
-The code in this Github was made using Anaconda Python, specifically JupyterLab.
+1) The code in this Github was made using Anaconda Python, specifically JupyterLab. To use this code it is first necessary to download JupyterLab and Anaconda Python from the official website: https://www.anaconda.com/download
 
-- To use JupyterLab and Anaconda Python in general, download from the official website: https://www.anaconda.com/download
+2) Install Git (which includes Git Bash) from this website: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-## Progress Summary
+3) Create a folder in your system to host the project. 
 
-For the first phase of the development from 9/16 - 9/30, the Jupyter Notebook for extracting the dataset and training the Random Forest was developed and the capabilities of visualization capabilities were explored.
+4) Open a CLI interface like Git Bash
+
+5) Within the folder that was just created, type the following between the braces: git clone https://github.com/AdamWojtul28/Interactive-RF-Visualizer.git
+
+6) Run Anaconda Navigator
+
+7) Run JupyterLab
+
+8) Run the cells in the notebook Decision_Tree_Visualizer.ipynb starting from the first cell. This can be accomplished by clicking the first cell in the notebook and then either consecutively clicking the Play button within the interface or with the Shift + Enter keyboard combination. 
+
+## Honors Thesis Paper
+- To access the Honors Thesis please access the Document titled: Dynamic Visualization of Scikit Learn Random Forest Models Paper.docx (https://github.com/AdamWojtul28/Interactive-RF-Visualizer/blob/main/Dynamic%20Visualization%20of%20Scikit%20Learn%20Random%20Forest%20Models%20Paper.docx)
