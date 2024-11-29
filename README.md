@@ -14,7 +14,7 @@ This repository contains work completed by Adam Wojtulewski with the help of Pro
 
 4) Open a CLI interface like Git Bash
 
-5) Within the folder that was just created, type the following between the braces: git clone https://github.com/AdamWojtul28/Interactive-RF-Visualizer.git
+5) Within the folder that was just created, type the following: git clone https://github.com/AdamWojtul28/Interactive-RF-Visualizer.git
 
 6) Run Anaconda Navigator
 
